@@ -1,0 +1,15 @@
+{
+  "name": "js-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asv-dec-greet": "1.0.0",
+    "lodash": "^4.17.11"
+  }
+}

@@ -1,0 +1,18 @@
+
+---------------------------------------------------------------
+.js developement without module standard & loader
+---------------------------------------------------------------
+
+Problems:
+
+==> global naming collisions
+==> loading dependency modules before dependent using them
+
+
+---------------------------------------------------------------
+Soln: => from third-parties , we got module standards & loaders
+---------------------------------------------------------------
+
+- AMD ( Async Module Definition ) spec
+- UMD
+- commonJS    ( popular standard )
